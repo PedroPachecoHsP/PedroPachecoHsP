@@ -35,28 +35,6 @@ Olá! Me chamo Pedro Pacheco. Estou finalizando o curso de Análise e Desenvolvi
 
 ---
 
-## ⚡ Terminal
-
-```bash
-> whoami
-Pedro Pacheco
-
-> role
-Data Analyst / Data Science (in progress)
-
-> education
-ADS @ UDF
-Network Engineering @ UnB
-
-> skills
-Python, SQL (learning), Data Analysis, Problem Solving
-
-> status
-Turning data into insights 📊
-```
-
----
-
 ## 📊 GitHub Stats
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroPachecoHsP\&show_icons=true\&theme=tokyonight)
