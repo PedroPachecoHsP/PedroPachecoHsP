@@ -1,8 +1,8 @@
 # 👨🏼‍💻 Pedro Pacheco
 
 <p align="center">
-  📊 Data Analyst / Data Science in progress <br>
-  🎓 ADS @ UDF | 🌐 Network Engineering @ UnB
+  Data Science Student | Interested in Cybersecurity & Networking <br>
+  🎓 ADS - UDF | 🌐 Network Engineering - UnB
 </p>
 
 ---
