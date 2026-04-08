@@ -35,9 +35,9 @@ Olá! Me chamo Pedro Pacheco. Estou finalizando o curso de Análise e Desenvolvi
 
 ## 📊 GitHub Stats
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroPachecoHsP\&show_icons=true\&theme=tokyonight)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroPachecoHsP&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPachecoHsP\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPachecoHsP&layout=compact\&theme=tokyonight)
 
 ---
 
